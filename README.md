@@ -1,1 +1,1 @@
-# iWise
+# iWise database model
